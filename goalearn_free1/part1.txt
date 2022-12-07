@@ -1,0 +1,4 @@
+predicted value for:[2, 9, 6]
+51611.32053586962
+predicted value for:[12, 10, 10]
+95020.06611378532
